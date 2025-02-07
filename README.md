@@ -6,6 +6,11 @@
 <br/>
 
 <div align="center">
+<p><img align="around"  src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-shrivastav&show_icons=true&locale=en&layout=compact" alt="rahul-shrivastav" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-shrivastav&show_icons=true&locale=en" alt="rahul-shrivastav" width="400" height="240" /></p>
+  
+</div> 
+
+<div align="center">
 <p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-shrivastav&show_icons=true&locale=en&layout=compact" alt="rahul-shrivastav" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-shrivastav&show_icons=true&locale=en" alt="rahul-shrivastav" /></p>
   
 </div> 
