@@ -9,6 +9,6 @@
 <br/>
 <div align="center">
   <img width="255"  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-shrivastav&show_icons=true&locale=en&layout=compact" alt="rahul-shrivastav" />
-  <span><img width="15" /></span>
+  <span><img width="5" /></span>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-shrivastav&show_icons=true&locale=en" alt="rahul-shrivastav" width="340"  /> 
 </div>
