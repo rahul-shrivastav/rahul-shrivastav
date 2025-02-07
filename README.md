@@ -5,18 +5,16 @@
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=rahul-shrivastav&theme=swift&hide_border=false&include_all_commits=false&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-shrivastav&theme=swift&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<div align="center">
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-shrivastav&show_icons=true&locale=en&layout=compact" alt="rahul-shrivastav" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-shrivastav&show_icons=true&locale=en" alt="rahul-shrivastav" /></p>
   
+</div> 
 
 
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulshrivastava01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulshrivastav052@gmail.com) 
 
 
 
-<div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-shrivastav&show_icons=true&locale=en&layout=compact" alt="rahul-shrivastav" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rahul-shrivastav&show_icons=true&locale=en" alt="rahul-shrivastav" /></p>
-  
-</div>
