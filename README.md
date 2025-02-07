@@ -5,9 +5,21 @@
 
 <br>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-shrivastav&show_icons=true&locale=en&layout=compact" alt="rahul-shrivastav" /></p>
+<div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-shrivastav&show_icons=true&locale=en&layout=compact" alt="rahul-shrivastav" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rahul-shrivastav&show_icons=true&locale=en" alt="rahul-shrivastav" /></p>
+  
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-shrivastav&show_icons=true&locale=en" alt="rahul-shrivastav" /></p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
 
 
 ## 🌐 Socials:
