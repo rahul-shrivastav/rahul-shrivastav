@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulshrivastava01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulshrivastav052@gmail.com) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulshrivastava01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulshrivastav052@gmail.com) [![Leetcode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/rahul-shrivastav/)
   
 </h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
